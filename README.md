@@ -1,7 +1,7 @@
 <h1>Втора лабораториска вежба по Софтверско инженерство</h1>
 <h2>Филип Стефановски, 186102</h2>
 
-<h2>Control Flow Graph</h2>
+<h2>2.Control Flow Graph</h2>
 
 ![Control Flow Graph](/ControlFlowGraph.png)
 
