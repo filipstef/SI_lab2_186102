@@ -4,7 +4,6 @@
 <h2>Control Flow Graph</h2>
 
 ![Control Flow Graph](/ControlFlowGraph.png)
-Format: ![Alt Text](url)
 
 
 <h2>3. Која е цикломатската комплексност на дадениот код?</h2>
