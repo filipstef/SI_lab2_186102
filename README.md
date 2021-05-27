@@ -2,7 +2,7 @@
 <h2>Филип Стефановски, 186102</h2>
 
 <h2>Control Flow Graph</h2>
-![Control Flow Graph](https://github.com/filipstef/SI_lab2_186102/blob/main/ControlFlowGraph.png)
+![Control Flow Graph](https://raw.githubusercontent.com/filipstef/SI_lab2_186102/main/ControlFlowGraph.png?token=AA4VKIGA37VEYS2GK3J72L3AV72ZA)
 
 <h2>3. Која е цикломатската комплексност на дадениот код?</h2>
 Цикломатската комплексност не наоѓа со формулата: E-N+2
